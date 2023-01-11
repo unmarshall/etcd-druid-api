@@ -1,0 +1,15 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+
+aliases:
+  etcd-druid-api-reviewers:
+  - unmarshall
+  - shreyas-s-rao
+  - abdasgupta
+  - ishan16696
+  - aaronfern
+  etcd-druid-api-approvers:
+  - unmarshall
+  - shreyas-s-rao
+  - abdasgupta
+  - ishan16696
+  - aaronfern
